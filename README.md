@@ -15,7 +15,7 @@ Can run complete load test without code
 Provides support for protocols like HTTP, JDBC, FTP etc
 Allows user to record HTTP/ HTTPS to create test plan using recording facility 
 
-Using Jmeter: (D drive)
+Using Jmeter:
 Run jmeter.bat from bin to start jmeter in GUI mode (shows cpu but good for running new test configurations)
 
 Elements of Jmeter: 
